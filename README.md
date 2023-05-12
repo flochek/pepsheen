@@ -1,7 +1,7 @@
 # pepsheen
 
 LOGIN ADMIN ACCOUNT
-  logibID: admin
+  loginID: admin
   password: 12345678
   
   
